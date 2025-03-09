@@ -1,5 +1,5 @@
 # 🌎 pazes-are-mine
-Mass pages.dev based subdomain acquirer.
+Mass **pages.dev** based subdomain acquirer.
 
 <p style="text-align: center">
 <img src="./files/demo.gif" style="max-width: 500px;border-radius:1rem;">
@@ -16,5 +16,8 @@ from getting phished.
 ```bash
 git clone https://github.com/rohitaryal/pazes-are-mine
 cd pazes-are-mine
-node src/script.mjs
+node src/script.mjs # And follow the prompts
 ```
+
+---
+Not for illegal purpose and domain hoarding.
