@@ -114,3 +114,9 @@ for await (const line of rlFile) {
         await acquireSubdomain(pageHash, subDomainName, userCookie)
     }
 }
+
+rl.close()
+reader.close()
+rlFile.close()
+
+console.log("\n All Done ")
