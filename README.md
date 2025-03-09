@@ -11,7 +11,8 @@ subdomains to protect myself and people around me
 from getting phished.
 
 ## ⚽ Usage
->[!TIP] You will need a list of sub-domain ([example](./files/domains.txt)) and the script will acquire them automatically if they are available.
+> [!TIP]
+> You will need a list of sub-domain ([example](./files/domains.txt)) and the script will acquire them automatically if they are available.
 
 ```bash
 git clone https://github.com/rohitaryal/pazes-are-mine
