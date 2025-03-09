@@ -1,6 +1,10 @@
 # 🌎 pazes-are-mine
 Mass pages.dev based subdomain acquirer.
 
+<p style="text-align: center">
+<img src="./files/demo.gif" style="max-width: 500px;border-radius:1rem;">
+</p>
+
 ## 🤓 Reason
 Got nearly phished by one of fellow hacker. So I [acquired some popular pages.dev](https://github.com/rohitaryal/domain-acquired-notice)
 subdomains to protect myself and people around me
